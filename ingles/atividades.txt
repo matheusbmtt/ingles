@@ -1,0 +1,138 @@
+1.   a) Project managers set milestones for projects to be able to monitor progress and check if the project is delivered on time.
+Answer: 2) milestones
+
+b) The most important aspect of a project closure phase is the client’s acceptance of deliverables.
+Answer: 1) deliverables
+
+c) The team must be aware of constraints such as limited resources to be able to take them into consideration during the planning stage.
+Answer: 2) constraints
+
+d) Clients provide project requirements, which represent their needs and help the team define the task they need to complete, to ensure the success of a project.
+Answer: 3) requirements
+
+e) We must define the project scope to establish the boundaries of the project and responsibilities for each team member.
+Answer: 3) scope
+
+f) Project managers are responsible for finishing projects on time and delivering results to stakeholders, either inside or outside the organization.
+Answer: 1) stakeholders
+
+
+
+
+2.   I was part of a project to create an app. We had clear milestones and delivered the deliverables on time, even with some constraints like limited time and budget. We followed the scope and met the client’s requirements.
+
+The biggest challenges in projects are changes and poor communication. I’ve heard of methods like Agile and Scrum.
+
+I was once in a project that went wrong because of bad planning and changing requirements.
+
+
+
+
+3.  1.backlog
+2.planning
+3.set time frame the Sprint
+4.Master
+5.pontentially
+6.review on the product
+7.chunk  
+
+
+
+4.   a) repeatable = incremental
+(Scrum is an iterative and incremental framework – ou seja, o processo se repete em ciclos curtos.)
+
+b) comprehensive = holistic
+(Scrum defines a holistic product development strategy – abrange todos os aspectos do desenvolvimento.)
+
+c) question = challenge
+(Scrum challenges assumptions – ou seja, questiona ideias tradicionais.)
+
+d) harmonize = organize
+(Enables teams to self-organize – ou seja, se organizar e trabalhar de forma coordenada.)
+
+e) delivered = shipped
+(The team shows what they've shipped – o que foi entregue ou finalizado.)
+
+f) objects = goal
+(The team works as a unit to reach a common goal – ou seja, objetivo.)
+
+g) demonstrate = show
+(The team shows what they’ve shipped – demonstrar o que foi feito.)
+
+h) progressive = incremental
+(Incremental feedback and development – progresso contínuo.)
+
+
+
+5.   Summary: Agile vs. Waterfall
+Differences:
+
+Waterfall is linear and sequential, with well-defined stages and little flexibility for changes.
+
+Agile is iterative and incremental, allowing frequent adaptations and continuous feedback.
+
+- Best Methodology:
+
+Agile usually works better in dynamic environments where requirements change frequently.
+
+Waterfall is more suitable for projects with well-defined requirements and few changes, such as construction or regulated sectors.
+
+- Opinion on Agile/Scrum:
+
+It’s not just a fad; it represents a revolution in the way people work, promoting collaboration, adaptation, and continuous delivery.
+
+Aspects of Scrum:
+
+Positive: Constant feedback and continuous improvement.
+
+Negative: Can become bureaucratic if followed too rigidly.
+
+- What’s missing from Scrum:
+
+More focus on technical practices and adapting ceremonies to the team’s reality.
+
+Who should avoid Scrum:
+
+Organizations with highly predictable, regulated, or critical projects—where changes are difficult and risky—should stick with Waterfall.
+
+
+
+6.  ✅  Team Defending Agile:
+Good points:
+
+Agile is flexible – easy to change when the client changes their mind.
+
+The client sees progress all the time.
+
+The team works together and communicates well.
+
+Faster delivery and better quality.
+
+Against Scrum:
+
+Scrum is too strict with rules.
+
+Too many meetings, which waste time.
+
+Hard to use with big teams.
+
+❌ Team Criticizing Scrum:
+Problems with Scrum:
+
+Works best only with experienced teams.
+
+Too many meetings (every day, every week).
+
+Not easy for large projects.
+
+If the client changes a lot, it can cause confusion.
+
+Against Agile:
+
+Agile can be messy if not managed well.
+
+Needs a lot of time from the client.
+
+Hard to know the final cost from the beginning.
+
+
